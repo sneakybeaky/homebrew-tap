@@ -1,4 +1,4 @@
-class Terraform < Formula
+class TerraformAT01112 < Formula
     desc "Tool to build, change, and version infrastructure"
     homepage "https://www.terraform.io/"
     url "https://releases.hashicorp.com/terraform/0.11.12/terraform_0.11.12_darwin_amd64.zip"

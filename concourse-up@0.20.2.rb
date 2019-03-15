@@ -1,4 +1,4 @@
-class ConcourseUp < Formula
+class ConcourseUpAT0202 < Formula
   desc "A tool for easily deploying Concourse in a single command. "
   homepage "https://github.com/EngineerBetter/concourse-up"
   url "https://github.com/EngineerBetter/concourse-up/releases/download/0.20.2/concourse-up-darwin-amd64"

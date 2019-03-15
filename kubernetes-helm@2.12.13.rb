@@ -7,8 +7,8 @@ class KubernetesHelmAT21213 < Formula
   bottle :unneeded
 
   def install
-    bin.install "darwin-amd64/helm"
-    bin.install "darwin-amd64/tiller"
+    bin.install "helm"
+    bin.install "tiller"
   end
 
   test do
